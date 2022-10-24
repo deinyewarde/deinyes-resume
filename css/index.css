@@ -1,0 +1,26 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: justify;
+
+}
+
+.bodayy {
+	width: 750px;
+	margin: 0 auto;
+}
+
+
+.full-name {
+	text-align: center;
+}
+
+.info {
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+
+.experience-header {
+	display: grid;
+	grid-template-columns: auto auto;
+}
+
