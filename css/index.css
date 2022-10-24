@@ -15,8 +15,14 @@ body {
 }
 
 .info {
+	justify-content: center;
 	display: grid;
-	grid-template-columns: auto auto auto;
+	grid-template-columns: auto auto auto auto auto;
+}
+
+.slash {
+	padding-left: 12px;
+	padding-right: 12px;
 }
 
 .experience-header {
