@@ -45,11 +45,6 @@ hr {
 	margin: 0px 0px 15px 0px;
 }
 
-.experience-header {
-	display: grid;
-	grid-template-columns: auto auto;
-}
-
 .technical-skills {
 	margin: 18px 0px 18px 0px;
 }
